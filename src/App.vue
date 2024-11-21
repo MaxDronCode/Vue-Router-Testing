@@ -18,6 +18,9 @@ import { RouterLink, RouterView } from 'vue-router'
         <li>
           <RouterLink to="/products">Products</RouterLink>
         </li>
+        <li>
+          <RouterLink to="/search">Search</RouterLink>
+        </li>
       </ul>
     </nav>
   </header>
